@@ -4,6 +4,7 @@ public class Helloworld{
      //prints "Hello, World" in terminal window.
      System.out.println("Hello, World");
      
+     // Prints "Welcome to Git, in the terminal.
      System.out.println("Welcome to Git");
   }
 }
